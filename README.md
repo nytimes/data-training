@@ -5,7 +5,7 @@ For some background on what is in these files, please read the blog post [here](
 
 We recommend you view these files through [Google Drive here.](https://drive.google.com/drive/folders/1ZS57_40tWuIB7tV4APVMmTZ-5PXDwX9w?usp=sharing) The activities and cheat sheets all follow Google Sheets. 
 
-We're providing the materials on Github as well because of requests to translate the materials. 
+We're providing the materials on Github as well because of requests to translate the materials. If you're interested in helping, please reach out and let us know. We are happy to connect you with anyone in your language who has already contacted us. 
 
 If you're not familiar with Github and would like to help, here is a suggested workflow: 
 * Click the green “clone or download” button and download a ZIP of these files to your computer
