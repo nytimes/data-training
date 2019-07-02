@@ -17,4 +17,13 @@ If you're not familiar with Github and would like to help, here is a suggested w
 
 You may also find it helpful to refer to this overview of the [Github workflow.](https://guides.github.com/introduction/flow/)
 
+We have ongoing translations in: 
+* Japanese, [see here](https://github.com/Hirodu27v/nytimes_data-training.ja)
+* Korean
+* Chinese 
+* Portuguese
+* Spanish
+* Italian
+* Burmese
+
 Questions? Contact Lindsey Cook at lindsey.cook@nytimes.com. 
