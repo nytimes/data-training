@@ -18,7 +18,7 @@ If you're not familiar with Github and would like to help, here is a suggested w
 You may also find it helpful to refer to this overview of the [Github workflow.](https://guides.github.com/introduction/flow/)
 
 We have ongoing translations in: 
-* Japanese, [see here](https://github.com/Hirodu27v/nytimes_data-training.ja)
+* Japanese, [see translation here](https://github.com/Hirodu27v/nytimes_data-training.ja) by [Hiroyuki Yokoyama](https://twitter.com/Hiro_du27v)
 * Korean
 * Chinese 
 * Portuguese
